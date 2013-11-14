@@ -1,0 +1,5 @@
+-fobjc-arc，使用ARC
+-fno-objc-arc，关闭ARC
+
+首选“Compile Sources”的位置:
+选中工程->TARGETS->相应的target然后选中右侧的“Build Phases”，向下就找到“Compile Sources”了。
